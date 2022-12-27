@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chunkitt46
+- 👋 Hi, I’m @ckitt-a
 - 👀 I'm interested in fiction, drawing, maths, and coding.
 - 🌱 I’m currently learning Python, Java, and discrete mathematics.
 - 💞️ I’m looking to collaborate on computer science and systems analysis.
